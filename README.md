@@ -11,12 +11,17 @@ Bu takvim uygulaması aşağıdaki user storyler kapsamında geliştirilmiştir 
 -Olay ile ilgili tanımladığımız zamanı geldiğinde bir çağrı sesi ile olayın hatırlatılması.
 ## Kurulum
 1- Proje deposunu klonlayın
+
 2- takvim.bak dosyasını kendi veritabanı uygulamanıza import edin
+
 3- baglanti.cs'deki SQL bağlantısı kontrolünün adını değiştirin. Kendi bağlantınızı girin. 
 ## Kullanım
-Gerekli kurulumlar yapıldıktan sonra programı derleyicinizde çalıştırın. 
-Karşınıza gelen kayıt olma ekranında girecek kullanıcı adınız ve şifreniz yoksa "Kayıt Ol" yazısına tıklayarak kayıt olma ekraına geçin gerekli bilgileri doldurun. 
-Programı tekrar çalıştırın. Kullanıcı adını ve şifreyi girin. Giriş butonuna tıklayın. 
-Karşınıza sistem tarihinizi kullanarak oluşturulan bir takvim ekranı gelecek. Bu ekrandaki günlere tıklayarak etkinlik kaydı oluşturabilir, güncelleyebilir ve silebilirsiniz. 
+-Gerekli kurulumlar yapıldıktan sonra programı derleyicinizde çalıştırın. 
+
+-Karşınıza gelen kayıt olma ekranında girecek kullanıcı adınız ve şifreniz yoksa "Kayıt Ol" yazısına tıklayarak kayıt olma ekraına geçin gerekli bilgileri doldurun. 
+
+-Programı tekrar çalıştırın. Kullanıcı adını ve şifreyi girin. Giriş butonuna tıklayın. 
+
+-Karşınıza sistem tarihinizi kullanarak oluşturulan bir takvim ekranı gelecek. Bu ekrandaki günlere tıklayarak etkinlik kaydı oluşturabilir, güncelleyebilir ve silebilirsiniz. 
 
 Aybüke Oğuz 
